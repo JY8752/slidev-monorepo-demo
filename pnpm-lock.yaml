@@ -23,6 +23,51 @@ importers:
         specifier: ^3.4.27
         version: 3.4.29(typescript@5.4.5)
 
+  packages/slidev2:
+    dependencies:
+      '@slidev/cli':
+        specifier: ^0.49.11
+        version: 0.49.11(@babel/parser@7.24.7)(@nuxt/kit@3.12.2(rollup@4.18.0))(@types/markdown-it@14.1.1)(@types/node@18.19.36)(@vue/compiler-sfc@3.4.29)(postcss@8.4.38)(rollup@4.18.0)(vue-template-compiler@2.7.16)
+      '@slidev/theme-default':
+        specifier: latest
+        version: 0.25.0
+      '@slidev/theme-seriph':
+        specifier: latest
+        version: 0.25.0
+      vue:
+        specifier: ^3.4.27
+        version: 3.4.29(typescript@5.4.5)
+
+  packages/slidev3:
+    dependencies:
+      '@slidev/cli':
+        specifier: ^0.49.11
+        version: 0.49.11(@babel/parser@7.24.7)(@nuxt/kit@3.12.2(rollup@4.18.0))(@types/markdown-it@14.1.1)(@types/node@18.19.36)(@vue/compiler-sfc@3.4.29)(postcss@8.4.38)(rollup@4.18.0)(vue-template-compiler@2.7.16)
+      '@slidev/theme-default':
+        specifier: latest
+        version: 0.25.0
+      '@slidev/theme-seriph':
+        specifier: latest
+        version: 0.25.0
+      vue:
+        specifier: ^3.4.27
+        version: 3.4.29(typescript@5.4.5)
+
+  packages/slidev4:
+    dependencies:
+      '@slidev/cli':
+        specifier: ^0.49.11
+        version: 0.49.11(@babel/parser@7.24.7)(@nuxt/kit@3.12.2(rollup@4.18.0))(@types/markdown-it@14.1.1)(@types/node@18.19.36)(@vue/compiler-sfc@3.4.29)(postcss@8.4.38)(rollup@4.18.0)(vue-template-compiler@2.7.16)
+      '@slidev/theme-default':
+        specifier: latest
+        version: 0.25.0
+      '@slidev/theme-seriph':
+        specifier: latest
+        version: 0.25.0
+      vue:
+        specifier: ^3.4.27
+        version: 3.4.29(typescript@5.4.5)
+
 packages:
 
   '@ampproject/remapping@2.3.0':
