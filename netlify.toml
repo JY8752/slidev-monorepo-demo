@@ -7,8 +7,8 @@ NODE_VERSION = "21"
 PLAYWRIGHT_BROWSERS_PATH = "0"
 
 [[redirects]]
-from = "/slidev1/*"
-to = "/slidev1/index.html"
+from = "/slidev/*"
+to = "/slidev/index.html"
 status = 200
 
 [[redirects]]
