@@ -15,8 +15,3 @@ status = 200
 from = "/slidev2/*"
 to = "/slidev2/index.html"
 status = 200
-
-[[redirects]]
-from = "/slidev3/*"
-to = "/slidev3/index.html"
-status = 200
