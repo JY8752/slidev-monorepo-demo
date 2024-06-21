@@ -3,7 +3,7 @@ publish = "dist"
 command = "pnpm run build"
 
 [build.environment]
-NODE_VERSION = "20"
+NODE_VERSION = "21"
 PLAYWRIGHT_BROWSERS_PATH = "0"
 
 [[redirects]]
@@ -19,9 +19,4 @@ status = 200
 [[redirects]]
 from = "/slidev3/*"
 to = "/slidev3/index.html"
-status = 200
-
-[[redirects]]
-from = "/slidev4/*"
-to = "/slidev4/index.html"
 status = 200
